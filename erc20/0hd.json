@@ -1,0 +1,21 @@
+{
+  "symbol": "HD",
+  "address": "0x6ce654ac973d326f89f0685e7459542641410ed9",
+  "overview":{
+        "en": "HubDao",
+        "zh": ""
+  },
+  "email": "Email",
+  "website": "https://hubdao.org",
+  "whitepaper": "https://your-awesome-project.com/file.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2020-09-01",
+  "initial_price":{
+        "ETH":"0.00166666 ETH",
+        "USD":"0.7 USD",
+        "BTC":"0.00004137 BTC"
+  },
+  "links": {
+    "twitter": "https://twitter.com/hub_dao",
+  }
+}
