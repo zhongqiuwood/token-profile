@@ -7,7 +7,7 @@
   "email": "contact@hubdao.org",
   "website": "https://hubdao.org",
   "whitepaper": "https://hubdao.org/images/HubDAOWP2.1EN.pdf",
-  "state": "LOCKED | NORMAL",
+  "state": "NORMAL",
   "published_on": "2020-09-01",
   "initial_price":{
     "USD":"0.5 USD"
